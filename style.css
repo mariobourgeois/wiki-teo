@@ -1,0 +1,30 @@
+
+    body {
+      background-image:  url(https://cutewallpaper.org/21/teo-seven-knights/Farid-Azroel-7KTalks-Teo-Sang-Night-Crow.jpg);
+      background-size: cover;
+    }
+    h1 {text-align: center;}
+    p {text-align: center;}
+    h2 {text-align: center;}
+    
+    p{background:cornflowerblue;}
+    p1{background-color: cornflowerblue;}
+    
+    mark {
+      background-color: rgb(255, 255, 255);
+      color:black;
+    }
+     #navglobal7k {
+      position: fixed;
+      left: 0px;
+     margin-left: -30px;
+     margin-top: 10px;
+    }
+    
+    
+    .sceaunightcrow {text-align: right;
+    margin-right: 10px;
+margin-top: -40px;}
+    
+  .nav{position: fixed;
+} 
